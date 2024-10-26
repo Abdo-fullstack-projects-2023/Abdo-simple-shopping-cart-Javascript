@@ -2,7 +2,7 @@
 
 This repository hosts the code for a **Simple Shopping Cart** website, created to demonstrate basic shopping cart functionality using JavaScript. This project provides a streamlined shopping experience, allowing users to add items to a cart, view their selection, and see the total price update in real-time.
 
-![Shopping Cart Screenshot](shoppingcart) 
+![Shopping Cart Screenshot](shoppingcart.png) 
 
 ## 🌐 Live Demo
 
